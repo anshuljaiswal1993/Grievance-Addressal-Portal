@@ -36,7 +36,5 @@ What things you need to install the software and how to install them
 
 
 
-## Authors
 
-* **Manash Bharali** - *Initial work* - [github.Manashio](https://github.com/Manashio)
 
